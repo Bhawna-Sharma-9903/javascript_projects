@@ -41,10 +41,6 @@ To use this Weather App, follow these steps:
 3. **Dynamic Background**:
    - Observe the background image change based on the weather conditions.
 
-## Demo
-
-You can see a live demo of the Weather App [here](https://yourdemoURL.com).
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
